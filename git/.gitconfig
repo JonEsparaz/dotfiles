@@ -1,0 +1,10 @@
+[user]
+	name = Jon Esparaz
+[core]
+	editor = vim
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
+[pull]
+	rebase = true
